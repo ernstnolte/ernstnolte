@@ -13,12 +13,6 @@
         <mxCell id="BIHh8B7FmufUokxiezGY-2" value="Volunteer" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="270" y="10" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fCMUgm20pQ58N2CfXYkV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="320.00343143857754" as="targetPoint" />
-            <mxPoint x="290" y="228.9" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BIHh8B7FmufUokxiezGY-3" value="Log in to the System" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -40,8 +34,17 @@
         <mxCell id="fCMUgm20pQ58N2CfXYkV-9" value="User_ID&lt;div&gt;User_PIN&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="100" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fCMUgm20pQ58N2CfXYkV-10" value="1 {Vol_ID + User_ID + User_Pin} N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="260" width="210" height="30" as="geometry" />
+        <mxCell id="fCMUgm20pQ58N2CfXYkV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309.66" y="230" as="targetPoint" />
+            <mxPoint x="309.66" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCMUgm20pQ58N2CfXYkV-12" value="1 {Vol_FName + Vol_LName + Is_Admin} N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fCMUgm20pQ58N2CfXYkV-13" value="Gain access to system????" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

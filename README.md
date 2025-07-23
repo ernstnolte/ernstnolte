@@ -1,4 +1,4 @@
-- I'm a programming student at the North-West University Potchefstroom campus in South Africa.
+- I'm a BSc IT student at the North-West University Potchefstroom campus in South Africa.
 - I use this porfile to:
   + work on personal projects
   + find self-hosted solutions for my home lab

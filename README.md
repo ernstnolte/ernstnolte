@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Ernst Nolte
-BSc Information Technology Student
+BSc Information Technology Student <br>
 https://ernstnolte.github.io/PortfolioWebsite/

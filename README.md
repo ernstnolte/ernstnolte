@@ -5,11 +5,8 @@
 
 <!-- Social / Contact Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ernstnolte.github.io/PortfolioWebsite/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernsthnolte/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ernsthnolte/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ernstnolte)
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ernst;IT+Student+%26+Developer;Building+with+Python%2C+Django%2C+and+C%23;Exploring+data+with+Jupyter+Notebooks;Always+learning+something+new)](https://git.io/typing-svg)
 
 </div>
 

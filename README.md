@@ -61,10 +61,10 @@
 
 ### 🚀 Featured Projects
 
-- **[PortfolioWebsite](https://github.com/ernstnolte/PortfolioWebsite)** – My personal portfolio site (CSS).
-- **[AssetLocationManager](https://github.com/ernstnolte/AssetLocationManager)** – An asset tracking system (HTML).
-- **[routersim](https://github.com/ernstnolte/routersim)** – A creative project for CMPG121 (C++).
-- **[StudySources](https://github.com/ernstnolte/StudySources)** – Study resources and scripts (Python).
+- **[PortfolioWebsite](https://github.com/ernstnolte/PortfolioWebsite)** – My personal portfolio site.
+- **[AssetLocationManager](https://github.com/ernstnolte/AssetLocationManager)** – An asset tracking system.
+- **[routersim](https://github.com/ernstnolte/routersim)** – A creative project for CMPG121.
+- **[StudySources](https://github.com/ernstnolte/StudySources)** – Study resources and scripts.
 
 ---
 

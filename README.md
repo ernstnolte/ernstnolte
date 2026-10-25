@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ernst%20Nolte&fontSize=70&fontAlignY=35&desc=BSc%20Information%20Technology%20Student&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ernst%20Nolte&fontSize=70&fontAlignY=35&desc=Software%20Developer%20&descSize=20&descAlignY=55" width="100%"/>
 
 <!-- Social / Contact Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ernstnolte.github.io/PortfolioWebsite/)

@@ -14,9 +14,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd-year **BSc Information Technology** student at NWU Potchefstroom, with a strong academic record.
-- 🏠 I run a **self-hosted home server** — Jellyfin, Zabbix, Pterodactyl — and previously exposed it via a Cloudflare tunnel on a custom domain.
-- 🐍 **Django** is my go-to stack for personal projects; it gives me a configurable backend and a workable frontend without over-engineering.
+- 🎓 3rd-year **BSc Information Technology** and prospective honours student at NWU Potchefstroom, with a strong academic record.
+- 🏠 **Self-Hosting** — Jellyfin, Zabbix, Pterodactyl — previously exposed via Cloudflare Tunnels.
+- 🐍 **Django** is my go-to stack for personal projects.
 - 👷 Former **IT Support Technician** (ICT-S, White River) **Network Infrastructure Project Lead** (Effektus / Eduvos).
 ---
 
